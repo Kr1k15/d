@@ -3,7 +3,6 @@ import random
 from discord.ext import commands
 
 import requests
-from PIL import Image, ImageFont, ImageDraw
 import io
 
 client = commands.Bot( command_prefix = '.' )
