@@ -33,7 +33,6 @@ packaging==20.9
 parso==0.5.2
 pastel==0.2.1
 pexpect==4.8.0
-pip==21.2.dev0
 pipreqs-amasad==0.4.10
 pkginfo==1.7.1
 platformdirs==2.4.0
